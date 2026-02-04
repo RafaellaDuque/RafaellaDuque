@@ -1,7 +1,7 @@
 # Rafaella Duque
 **`SWE`** **`3DModler`**
 
-I hold a Bachelor's degree in **Animation** from **FAAP**, a background that has provided me with an efficient workflow. I am currently in a career transition, pursuing **Software Engineering** at **FIAP**.
+I hold a Bachelor's degree in **Animation** from **FAAP**, and I am currently in a career transition, pursuing **Software Engineering** at **FIAP**.
 
 ---
 
