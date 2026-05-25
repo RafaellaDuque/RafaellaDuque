@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="banner" width="25%" />
-
 <br/>
 
 ### Rafaella Duque
@@ -19,7 +17,5 @@ Graduada em **Animação** pela **FAAP** · em transição para **Engenharia de 
 </a>
 
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=RafaellaDuque&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=94A3B8&icon_color=38BDF8&show_icons=true&rank_icon=none" alt="stats" height="150" />
 
 </div>
