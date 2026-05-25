@@ -1,19 +1,25 @@
-# Rafaella Duque
-**`SWE`** **`3DModler`**
+<div align="center">
 
-I hold a Bachelor's degree in **Animation** from **FAAP**, and I am currently in a career transition, pursuing **Software Engineering** at **FIAP**.
+<img src="./assets/banner.png" alt="banner" width="100%" />
 
----
+<br/>
 
+### Rafaella Duque
 
-####  Languages and Tools
+`software engineering` · `3d modeling`
 
-<p align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir Badge"/>
-</p>
+<br/>
+
+Graduada em **Animação** pela **FAAP** · em transição para **Engenharia de Software** na **FIAP**
+
+<br/>
+
+<a href="https://github.com/RafaellaDuque">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,elixir&theme=dark" alt="stack" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=RafaellaDuque&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=94A3B8&icon_color=38BDF8&show_icons=true&rank_icon=none" alt="stats" height="150" />
+
+</div>
