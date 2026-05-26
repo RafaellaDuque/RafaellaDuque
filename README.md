@@ -46,32 +46,23 @@
 
 <p><strong>Projects</strong></p>
 
-<table>
-<tr>
-<td>
+<p>
   <a href="https://pacimed.vercel.app">
     <img src="https://img.shields.io/badge/PaciMed-000000?style=flat-square&logo=vercel&logoColor=white" alt="PaciMed"/>
   </a>
-</td>
-<td>
+  <br/>
   <a href="https://florastack.vercel.app">
     <img src="https://img.shields.io/badge/Florastack-000000?style=flat-square&logo=vercel&logoColor=white" alt="Florastack"/>
   </a>
-</td>
-</tr>
-<tr>
-<td>
+  <br/>
   <a href="https://globalswap.vercel.app/index.html">
     <img src="https://img.shields.io/badge/GSwap-000000?style=flat-square&logo=vercel&logoColor=white" alt="GSwap"/>
   </a>
-</td>
-<td>
+  <br/>
   <a href="https://tarotdiario.vercel.app">
     <img src="https://img.shields.io/badge/Tarot_Diario-000000?style=flat-square&logo=vercel&logoColor=white" alt="Tarot Diario"/>
   </a>
-</td>
-</tr>
-</table>
+</p>
 
 </td>
 </tr>
