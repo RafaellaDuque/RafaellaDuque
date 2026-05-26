@@ -75,3 +75,5 @@
 
 <h3 align="center">Current Goal</h3> 
 <p>I am actively looking for a <code>Software Engineering Internship</code> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RafaellaDuque&show_icons=true&count_private=true&theme=dracula)
