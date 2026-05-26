@@ -34,8 +34,7 @@
 </td>
 <td valign="top">
 
-<h3>Rafaella Duque</h3>
-
+<h2>Rafaella Duque</h3>
 <p>
   <code>software engineering</code> · <code>3d modeling</code>
 </p>
@@ -43,12 +42,6 @@
 <p>
   Graduada em <strong>Animação</strong> pela <strong>FAAP</strong> · em transição para <strong>Engenharia de Software</strong> na <strong>FIAP</strong>
 </p>
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <h2 align="center">Projects</h2>
 
@@ -78,6 +71,10 @@
   </a>
 </p>
 
+</td>
+</tr>
+</table>
+
 <br/>
 
 <h2 align="center">Technologies</h2>
@@ -87,10 +84,11 @@
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Elixir-000000?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/>
+   <img src="https://img.shields.io/badge/Elixir-000000?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
+
 
 <h3 align="center">Frameworks & Libraries</h3>
 
@@ -104,3 +102,4 @@
 <p align="center">
   experienced in team development using <strong>GitHub</strong>, pull requests, code reviews, and structured workflows.
 </p>
+
