@@ -34,7 +34,7 @@
 </td>
 <td valign="top">
 
-<h3>Rafaella Duque</h3>
+<h2>Rafaella Duque</h3>
 
 <p>
   <code>software engineering</code> · <code>3d modeling</code>
@@ -47,9 +47,9 @@
 <p><strong>Projects</strong></p>
 
 <p>
-  <a href="https://pacimed.vercel.app">
+  <h3 href="https://pacimed.vercel.app">
     <img src="https://img.shields.io/badge/PaciMed-000000?style=flat-square&logo=vercel&logoColor=white" alt="PaciMed"/>
-  </a>
+  </h3>
   <br/>
 
   
