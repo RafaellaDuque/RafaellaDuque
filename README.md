@@ -34,11 +34,22 @@
 </td>
 <td valign="top">
 
-<h1>Rafaella Duque</h3>
+<h2>Hi there, I'm Rafaella!</h3>
 <p>
   <code>software engineering</code> · <code>3d modeling</code>
 </p>
 
+<p>I am a **Software Engineering student** transitioning from a creative background into the tech world. I love combining logic with creativity to build impactful solutions.</p>
+<br>
+
+<h3> About Me</h3>
+<p>*   🎓 Currently in my 1st year of **Software Engineering at FIAP**.</p>
+<p>*   🎨 Hold a **Bachelor’s degree in Animation**, which gave me a strong foundation in 3D modeling and animation principles.</p>
+*   💡 Constantly learning new technologies and exploring how design and code intersect.
+*   🌱 Enthusiastic about problem-solving, clean code, and interactive web applications.
+
+### 🎯 Current Goal
+I am actively looking for a **Software Engineering Internship** to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.
 <p>
   Graduada em <strong>Animação</strong> pela <strong>FAAP</strong> · em transição para <strong>Engenharia de Software</strong> na <strong>FIAP</strong>
 </p>
