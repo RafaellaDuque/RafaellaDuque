@@ -48,6 +48,7 @@
 
 <p>
   <a href="https://pacimed.vercel.app">
+    <img src="https://img.shields.io/badge/PaciMed-000000?style=flat-square&logo=vercel&logoColor=white" alt="PaciMed"/>
   </a>
   <br/>
 <br/>
