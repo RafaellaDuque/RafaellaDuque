@@ -36,10 +36,10 @@
 
 <h2>Hi there, I'm Rafaella!</h3>
 <p>
-  <code>software engineering</code> · <code>3d modeling</code>
+  <code>software engineering</code> · <code>3D Modeling</code> <code>Animation BC</code>
 </p>
 
-<p>I am a <strong>Software Engineering student</strong> transitioning from a creative background (animation) into the tech world. I love combining logic with creativity to build impactful solutions.</p>
+<p>I am a <code>Software Engineering student</code> transitioning from a creative background (animation) into the tech world. I love combining logic with creativity to build impactful solutions.</p>
 <br>
 
 <p>I am actively looking for a <code>Software Engineering Internship</code> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
