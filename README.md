@@ -34,7 +34,8 @@
 </td>
 <td valign="top">
 
-<h2>Rafaella Duque</h3>
+<h3>Rafaella Duque</h3>
+
 <p>
   <code>software engineering</code> · <code>3d modeling</code>
 </p>
@@ -42,29 +43,40 @@
 <p>
   Graduada em <strong>Animação</strong> pela <strong>FAAP</strong> · em transição para <strong>Engenharia de Software</strong> na <strong>FIAP</strong>
 </p>
-<p><strong>Projects</strong></p>
-
-<p>
-  <a href="https://pacimed.vercel.app">
-    <img src="https://img.shields.io/badge/PaciMed-000000?style=flat-square&logo=vercel&logoColor=white" alt="PaciMed"/>
-  </a>
-  <br/>
-  <a href="https://florastack.vercel.app">
-    <img src="https://img.shields.io/badge/Florastack-000000?style=flat-square&logo=vercel&logoColor=white" alt="Florastack"/>
-  </a>
-  <br/>
-  <a href="https://globalswap.vercel.app/index.html">
-    <img src="https://img.shields.io/badge/GSwap-000000?style=flat-square&logo=vercel&logoColor=white" alt="GSwap"/>
-  </a>
-  <br/>
-  <a href="https://tarotdiario.vercel.app">
-    <img src="https://img.shields.io/badge/Tarot_Diario-000000?style=flat-square&logo=vercel&logoColor=white" alt="Tarot Diario"/>
-  </a>
-</p>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<h2 align="center">Projects</h2>
+
+<hr width="100%"/>
+
+<p align="center">
+  <a href="https://pacimed.vercel.app">
+    <img src="https://img.shields.io/badge/PaciMed-000000?style=for-the-badge" alt="PaciMed"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://florastack.vercel.app">
+    <img src="https://img.shields.io/badge/Florastack-000000?style=for-the-badge" alt="Florastack"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://globalswap.vercel.app/index.html">
+    <img src="https://img.shields.io/badge/GSwap-000000?style=for-the-badge" alt="GSwap"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tarotdiario.vercel.app">
+    <img src="https://img.shields.io/badge/Tarot_Diario-000000?style=for-the-badge" alt="Tarot Diario"/>
+  </a>
+</p>
 
 <br/>
 
@@ -75,11 +87,10 @@
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-   <img src="https://img.shields.io/badge/Elixir-000000?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/>
+  <img src="https://img.shields.io/badge/Elixir-000000?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-
 
 <h3 align="center">Frameworks & Libraries</h3>
 
