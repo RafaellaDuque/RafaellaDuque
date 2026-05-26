@@ -45,7 +45,7 @@
 
 <h2 align="center">Projects</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://pacimed.vercel.app">
     <img src="https://img.shields.io/badge/PaciMed-000000?style=for-the-badge" alt="PaciMed"/>
   </a>
