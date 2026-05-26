@@ -63,8 +63,8 @@
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor" alt="Python"/>
    <img src="https://img.shields.io/badge/Elixir-000000?style=for-the-badge&logo=elixir&logoColor" alt="Elixir"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor" alt="GitHub"/><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor" alt="GitHub"/><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor" alt="Vite"/>
 </p>
 
 <h3 align="center">Current Goal</h3> 
