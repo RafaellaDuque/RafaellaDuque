@@ -47,6 +47,12 @@
 <h2 align="center">Projects</h2>
 <p align="center">
 <a href="https://pacimed.vercel.app"><img src="https://img.shields.io/badge/PaciMed-000000?style=for-the-badge" alt="PaciMed"/></a><a href="https://florastack.vercel.app"><img src="https://img.shields.io/badge/Florastack-000000?style=for-the-badge" alt="Florastack"/></a><a href="https://globalswap.vercel.app/index.html"><img src="https://img.shields.io/badge/GSwap-000000?style=for-the-badge" alt="GSwap"/></a><a href="https://tarotdiario.vercel.app"><img src="https://img.shields.io/badge/Tarot_Diario-000000?style=for-the-badge" alt="Tarot Diario"/></a>
+<h2>Talk to Me</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 </td>
 </tr>
@@ -68,7 +74,7 @@
 </p>
 
 <h3 align="center">Current Goal</h3> 
-<p>I am actively looking for a <strong>Software Engineering Internship</strong> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
+<p>I am actively looking for a <code>Software Engineering Internship</code> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
 
 <h3 align="center">Team Collaboration</h3>
 
