@@ -78,5 +78,4 @@
 
 
 ![Visão Geral](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaellaDuque&theme=dracula)
-![Commits](https://img.shields.io/github/commits-per-year/RafaellaDuque?style=for-the-badge&color=purple)
-![Gráfico de Commits](https://github-readme-activity-graph.vercel.app/graph?username=RafaellaDuque&theme=dracula)
+
