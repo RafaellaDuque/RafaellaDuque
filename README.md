@@ -75,10 +75,3 @@
 
 <h3 align="center">Current Goal</h3> 
 <p>I am actively looking for a <code>Software Engineering Internship</code> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
-
-<h3 align="center">Team Collaboration</h3>
-
-<p align="center">
-  Experienced in team development using <strong>GitHub</strong>, pull requests, code reviews, and structured workflows.
-</p>
-
