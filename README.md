@@ -47,11 +47,10 @@
 <p><strong>Projects</strong></p>
 
 <p>
-  <h3 href="https://pacimed.vercel.app">
-    <img src="https://img.shields.io/badge/PaciMed-000000?style=flat-square&logo=vercel&logoColor=white" alt="PaciMed"/>
-  </h3>
+  <a href="https://pacimed.vercel.app">
+  </a>
   <br/>
-
+<br/>
   
   <a href="https://florastack.vercel.app">
     <img src="https://img.shields.io/badge/Florastack-000000?style=flat-square&logo=vercel&logoColor=white" alt="Florastack"/>
