@@ -34,7 +34,9 @@
 </td>
 <td valign="top">
 
-<h2>Hi there, I'm Rafaella!</h3>
+<h2>Hi there, I'm Rafaella! 
+<a href="https://www.linkedin.com/in/rafaella-duque-55a94426b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></p>
+</h3>
 <p>
   <code>software engineering</code> · <code>3D Modeling</code> <code>Animation-BC</code>
 </p>
@@ -48,7 +50,6 @@
 <p align="center">
 <a href="https://pacimed.vercel.app"><img src="https://img.shields.io/badge/PaciMed-000000?style=for-the-badge" alt="PaciMed"/></a><a href="https://florastack.vercel.app"><img src="https://img.shields.io/badge/Florastack-000000?style=for-the-badge" alt="Florastack"/></a><a href="https://globalswap.vercel.app/index.html"><img src="https://img.shields.io/badge/GSwap-000000?style=for-the-badge" alt="GSwap"/></a><a href="https://tarotdiario.vercel.app"><img src="https://img.shields.io/badge/Tarot_Diario-000000?style=for-the-badge" alt="Tarot Diario"/></a>
 
-<a href="https://www.linkedin.com/in/rafaella-duque-55a94426b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></p>
 </td>
 </tr>
 </table>
