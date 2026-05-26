@@ -77,4 +77,4 @@
 <p>I am actively looking for a <code>Software Engineering Internship</code> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RafaellaDuque&show_icons=true&count_private=true&theme=dracula)
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=rafaelladuque&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=RafaellaDuque&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
