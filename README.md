@@ -40,9 +40,8 @@
 </p>
 
 <p>I am a <code>Software Engineering student</code> transitioning from a creative background into the tech world.</p>
-<br>
-<h2 align="center">Projects</h2>
 
+<h2 align="center">Projects</h2>
 <p align="center">
 <a href="https://pacimed.vercel.app"><img src="https://img.shields.io/badge/PaciMed-000000?style=for-the-badge" alt="PaciMed"/></a><a href="https://florastack.vercel.app"><img src="https://img.shields.io/badge/Florastack-000000?style=for-the-badge" alt="Florastack"/></a><a href="https://globalswap.vercel.app/index.html"><img src="https://img.shields.io/badge/GSwap-000000?style=for-the-badge" alt="GSwap"/></a><a href="https://tarotdiario.vercel.app"><img src="https://img.shields.io/badge/Tarot_Diario-000000?style=for-the-badge" alt="Tarot Diario"/></a>
 </p>
