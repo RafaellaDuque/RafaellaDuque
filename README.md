@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
-<h2 align="center">Current Goal</h2> 
+<h3 align="center">Current Goal</h3> 
 <p>I am actively looking for a <strong>Software Engineering Internship</strong> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
 
 <h3 align="center">Team Collaboration</h3>
