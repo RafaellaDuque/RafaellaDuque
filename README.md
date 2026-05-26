@@ -76,5 +76,7 @@
 <h3 align="center">Current Goal</h3> 
 <p>I am actively looking for a <code>Software Engineering Internship</code> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
 
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=RafaellaDuque&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visão Geral](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaellaDuque&theme=dracula)
+![Commits](https://img.shields.io/github/commits-per-year/RafaellaDuque?style=for-the-badge&color=purple)
 ![Gráfico de Commits](https://github-readme-activity-graph.vercel.app/graph?username=RafaellaDuque&theme=dracula)
