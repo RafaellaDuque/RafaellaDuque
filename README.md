@@ -92,6 +92,6 @@
 <h3 align="center">Team Collaboration</h3>
 
 <p align="center">
-  experienced in team development using <strong>GitHub</strong>, pull requests, code reviews, and structured workflows.
+  Experienced in team development using <strong>GitHub</strong>, pull requests, code reviews, and structured workflows.
 </p>
 
