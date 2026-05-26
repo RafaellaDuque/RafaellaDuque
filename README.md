@@ -34,7 +34,7 @@
 </td>
 <td valign="top">
 
-<h2>About me!</h3>
+<h2 align="center">About me!</h3>
 <p>
   <code>software engineering</code> · <code>3D Modeling</code> <code>Animation-BC</code>
 </p>
