@@ -39,12 +39,11 @@
   <code>software engineering</code> · <code>3D Modeling</code> <code>Animation-BC</code>
 </p>
 
-<p>I am a <code>Software Engineering student</code> transitioning from a creative background into the tech world.</p>
-<br>
+<p>I am a <strong>Software Engineering student</strong> transitioning from a creative background into the tech world.</p>
 
 </p>
 
-<p>I am actively looking for a <code>Software Engineering Internship</code> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
+<p>I am actively looking for a <strong>Software Engineering Internship</strong> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
 
 <h2 align="center">Projects</h2>
 <p align="center">
