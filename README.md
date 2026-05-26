@@ -51,8 +51,6 @@
     <img src="https://img.shields.io/badge/PaciMed-000000?style=flat-square&logo=vercel&logoColor=white" alt="PaciMed"/>
   </a>
   <br/>
-<br/>
-  
   <a href="https://florastack.vercel.app">
     <img src="https://img.shields.io/badge/Florastack-000000?style=flat-square&logo=vercel&logoColor=white" alt="Florastack"/>
   </a>
@@ -74,7 +72,6 @@
 
 <h2 align="center">Technologies</h2>
 
-<hr width="100%"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
