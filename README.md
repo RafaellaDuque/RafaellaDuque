@@ -42,8 +42,6 @@
 <p>
   Graduada em <strong>Animação</strong> pela <strong>FAAP</strong> · em transição para <strong>Engenharia de Software</strong> na <strong>FIAP</strong>
 </p>
-
-<hr width="100%"/>
 <p><strong>Projects</strong></p>
 
 <p>
