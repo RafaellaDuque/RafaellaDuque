@@ -36,7 +36,7 @@
 
 <h2 align="center">About Me</h3>
 <p>
-  <code>software engineering</code> · <code>3D Modeling</code> <code>Animation-BC</code>
+  <code>Software Engineering</code> · <code>3D Modeling</code> <code>Animation-BC</code>
 </p>
 
 <p>I am a <strong>Software Engineering student</strong> transitioning from a creative background into the tech world.
