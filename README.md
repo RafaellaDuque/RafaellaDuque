@@ -1,4 +1,8 @@
-<pre align="left">
+<table>
+<tr>
+<td valign="top" width="280">
+
+<pre style="font-size: 6px; line-height: 6px; margin: 0;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠴⠂⠀⠐⠒⠤⢀⣀⢀⡤⢤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠋⢀⡄⠀⠀⠀⣠⠊⠀⠀⠀⠀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠃⠀⡜⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -27,18 +31,25 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠒⠒⠋⠁⠀⠙⠽⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
 
-### Rafaella Duque
+</td>
+<td valign="top">
 
-`software engineering` · `3d modeling`
+<h3>Rafaella Duque</h3>
 
-<br/>
+<p>
+  <code>software engineering</code> · <code>3d modeling</code>
+</p>
 
-Graduada em **Animação** pela **FAAP** · em transição para **Engenharia de Software** na **FIAP**
+<p>
+  Graduada em <strong>Animação</strong> pela <strong>FAAP</strong> · em transição para <strong>Engenharia de Software</strong> na <strong>FIAP</strong>
+</p>
 
-<br/>
+<p>
+  <a href="https://github.com/RafaellaDuque">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,elixir&theme=dark" alt="stack" />
+  </a>
+</p>
 
-<a href="https://github.com/RafaellaDuque">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,elixir&theme=dark" alt="stack" />
-</a>
-
-<br clear="left"/>
+</td>
+</tr>
+</table>
