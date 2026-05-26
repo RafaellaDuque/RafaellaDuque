@@ -77,5 +77,3 @@
 <p>I am actively looking for a <code>Software Engineering Internship</code> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
 
 
-![Visão Geral](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaellaDuque&theme=monokai)
-
