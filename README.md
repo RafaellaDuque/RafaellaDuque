@@ -39,11 +39,10 @@
   <code>software engineering</code> · <code>3D Modeling</code> <code>Animation-BC</code>
 </p>
 
-<p>I am a <strong>Software Engineering student</strong> transitioning from a creative background into the tech world.</p>
-
+<p>I am a <strong>Software Engineering student</strong> -at FIAP- transitioning from a creative background into the tech world.
 </p>
-
-<p>I am actively looking for a <strong>Software Engineering Internship</strong> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
+<p>I love combining logic with creativity to build impactful solutions.</p>
+</p>
 
 <h2 align="center">Projects</h2>
 <p align="center">
@@ -67,6 +66,9 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
+
+<h2 align="center">Current Goal</h2> 
+<p>I am actively looking for a <strong>Software Engineering Internship</strong> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
 
 <h3 align="center">Team Collaboration</h3>
 
