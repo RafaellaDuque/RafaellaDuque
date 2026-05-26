@@ -34,9 +34,7 @@
 </td>
 <td valign="top">
 
-<h2>Hi there, I'm Rafaella! 
-<a href="https://www.linkedin.com/in/rafaella-duque-55a94426b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></p>
-</h3>
+<h2>Hi there, I'm Rafaella!</h3>
 <p>
   <code>software engineering</code> · <code>3D Modeling</code> <code>Animation-BC</code>
 </p>
