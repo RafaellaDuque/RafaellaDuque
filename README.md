@@ -76,4 +76,4 @@
 <h3 align="center">Current Goal</h3> 
 <p>I am actively looking for a <code>Software Engineering Internship</code> to apply my academic knowledge, collaborate with experienced teams, and contribute to real-world projects.</p>
 
-![Metrics](https://metrics.lecoq.io/RafaellaDuque?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FBahia)
+![Gráfico de Commits](https://github-readme-activity-graph.vercel.app/graph?username=RafaellaDuque&theme=dracula)
