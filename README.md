@@ -61,6 +61,15 @@
     <img src="https://img.shields.io/badge/Tarot_Diario-000000?style=flat-square&logo=vercel&logoColor=white" alt="Tarot Diario"/>
   </a>
 </p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h2 align="center">Technologies</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -70,15 +79,6 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<h2 align="center">Technologies</h2>
-
-
 
 
 <h3 align="center">Frameworks & Libraries</h3>
