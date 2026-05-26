@@ -38,7 +38,7 @@
 <p>
   <code>Software Engineering</code> · <code>3D Modeling</code> <code>Animation-BC</code>
 </p>
-
+<br>
 <p>I am a <strong>Software Engineering student</strong> transitioning from a creative background into the tech world.
 </p>
 <p>I love combining logic with creativity to build impactful solutions.</p>
