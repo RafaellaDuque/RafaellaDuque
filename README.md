@@ -49,19 +49,13 @@
   <a href="https://pacimed.vercel.app">
     <img src="https://img.shields.io/badge/PaciMed-000000?style=for-the-badge" alt="PaciMed"/>
   </a>
-
-<p>
+</p>
   <a href="https://florastack.vercel.app">
     <img src="https://img.shields.io/badge/Florastack-000000?style=for-the-badge" alt="Florastack"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://globalswap.vercel.app/index.html">
     <img src="https://img.shields.io/badge/GSwap-000000?style=for-the-badge" alt="GSwap"/>
   </a>
-</p>
-</p>
 
 <p align="center">
   <a href="https://tarotdiario.vercel.app">
