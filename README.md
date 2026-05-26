@@ -35,7 +35,7 @@
 <td valign="top">
 
 <h2>Rafaella Duque</h3>
-
+<hr width="100%"/>
 <p>
   <code>software engineering</code> · <code>3d modeling</code>
 </p>
